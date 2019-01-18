@@ -1,0 +1,21 @@
+{
+  "name": "michael_scott_api",
+  "version": "1.0.0",
+  "description": "Michael Scott's quotes API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API",
+    "Michael",
+    "Scott",
+    "Quotes"
+  ],
+  "author": "rodrigoabb",
+  "license": "ISC"
+}
