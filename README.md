@@ -4,7 +4,7 @@ Simple API to receive Michael Scott funny quotes!
 
 # Endpoint
 
-/randomQuote
+https://michael-scott-quotes-api.herokuapp.com/randomQuote
 
 
 
